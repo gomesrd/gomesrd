@@ -23,7 +23,7 @@
 
 
 
-![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=gomesrd&theme=dark&show_icons=true)
+![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=gomesrd&theme=dark&show_icons=true&count_private=true)
 
 [![Douglas](https://github-readme-stats.vercel.app/api/top-langs/?username=gomesrd&hide=html&layout=compact&theme=dark)]([https://github.com/gomesrd/github-readme-stats](https://github.com/gomesrd)https://github.com/gomesrd)
 
