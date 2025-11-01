@@ -1,4 +1,4 @@
-## Olá, meu nome é Douglas Santos, bem-vindo ao meu repositório!
+## Olá, bem-vindo ao meu repositório!
 
 ### 
 
